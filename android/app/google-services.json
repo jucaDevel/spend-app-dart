@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "473672955653",
+    "project_id": "cost-tracker-app-4ee01",
+    "storage_bucket": "cost-tracker-app-4ee01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473672955653:android:5e2915941fd0946abfe96c",
+        "android_client_info": {
+          "package_name": "com.example.cost_tracker_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473672955653-dl7t6bsjvf2scuce4ttjd6mfugvd5oe2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cost_tracker_app",
+            "certificate_hash": "24c66c51a233fbead94f0368c67117ff5f7284cd"
+          }
+        },
+        {
+          "client_id": "473672955653-cmgaegprrthm8crgkjojd0g5j725u1oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy1pJhXDAfvkCeAHLqGln4CVjesI_rxsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473672955653-cmgaegprrthm8crgkjojd0g5j725u1oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
